@@ -398,6 +398,12 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |https://dcastalia.com/[Website]
 |Please update
 
+| DUSRA Soft Limited
+| House 79, Road 12/A, Dhanmondi, Dhaka, Bangladesh
+| Custom Software Development, Web Development, WordPress, E-commerce Solutions, Mobile App Development, HRM & Payroll Software, Accounting Software, POS Systems, Inventory Management, SEO, Digital Marketing
+| https://dusrasoft.com [Website] https://www.linkedin.com/company/31345722/ [LinkedIn] https://www.facebook.com/dusrasoft/ [Facebook]
+| Please update
+
 |Dynamic Solution Innovators Ltd. (DSi)
 |House 177, Lane 2, New DOHS Mohakhali, Dhaka 1206, Bangladesh
 |Java, Spring Boot, Node.js (Hapi), Hibernate, React, Next.js, AngularJS, Android, iOS
@@ -579,6 +585,12 @@ https://www.linkedin.com/company/era-infotech-ltd/posts/[LinkedIn]
 |C#, dotnet.
 |https://www.hawarit.com/career-at-hawarit/[Website]
 |30+
+
+| HRMS Software BD
+| House 79, Road 12/A, Dhanmondi, Dhaka, Bangladesh
+| HRM Software, Payroll Management Software, Employee Management, Attendance Management, Leave Management, Performance Management, Biometric Integration, HR Automation
+| https://hrmssoftwarebd.com [Website]
+| 100+
 
 |Hogarth Dhaka
 |Road 11, House 76/A [3rd Floor], Banani, Dhaka, Dhaka 1213, BD
